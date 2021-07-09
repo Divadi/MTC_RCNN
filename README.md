@@ -1,7 +1,7 @@
 # MTC_RCNN: Multi-Modality Task Cascade for 3D Object Detection
 Jinhyung Park, Xinshuo Weng, Yunze Man, Kris Kitani
 
-This repository is the code release of Multi-Modality Task Cascade for 3D Object Detection
+This repository is the code release of [Multi-Modality Task Cascade for 3D Object Detection](https://arxiv.org/abs/2107.04013)
 
 <p align="center">
     <img src="./main_arch.png"/ width="900">
